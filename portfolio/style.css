@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Khula:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    
+}
+
+nav {
+    font-family: 'Righteous', cursive;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Khula', sans-serif;
+    font-size: 65px;
+    padding-top:6px;
+}
+
+.container {
+    max-width: 38em;
+    padding-top:15px;
+}
